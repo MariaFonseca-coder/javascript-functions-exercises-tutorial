@@ -5,5 +5,3 @@ let multi = function(a,b) {
 
 
 // Your code here
-let resultado=multi(324234,47);
-console.log(resultado);

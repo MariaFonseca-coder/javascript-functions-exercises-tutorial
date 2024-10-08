@@ -5,6 +5,4 @@ let euroToYen = function(euroValue) {
 	return euroValue * 124.15;
 }
 ///***** YOUR CODE BELOW ↓ ******///
-let resultadoEuro = dollarToEuro(137);
-let resultadoYen =euroToYen(resultadoEuro);
-console.log(resultadoYen);
+
